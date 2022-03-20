@@ -1,0 +1,43 @@
+tb_kikd
+- id_kikd
+- judul
+- mata pelajaran
+- file pdf
+- kelas
+
+tb_silabus
+- id_silabus
+- judul
+- mata pelajaran
+- file pdf
+- kelas
+
+tb_bahan_ajar
+- id_silabus
+- judul
+- mata pelajaran
+- file pdf
+- kelas
+
+tb_rpp
+- id_silabus
+- judul
+- mata pelajaran
+- file pdf
+- kelas
+
+tb_soal
+- id_soal
+- pertanyaan
+- tipe soal (gambar / text)
+- gambar (optional)
+- jawab_a
+- jawab_b
+- jawab_c
+- jawab_d
+- jawab_e
+- jawaban_benar
+
+!!penugasan upload file tugas
+
+!!penambahan angket penilaioan siswa sesuadah soal
